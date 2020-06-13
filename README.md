@@ -35,7 +35,7 @@ Then run the `test` script (it runs the command defined in package.json):
 
 	npm test
 
-![Screenshot of Powershell](screenshots\Powershell.png)
+![Screenshot of Powershell](screenshots/Powershell.png)
 
 
 -------------------------------------------------------------------------------
@@ -49,7 +49,7 @@ The results are displayed in the tab `Actions` of the repository.
 
 Depending on your settings, you would also receive a notification with a direct link to the results after a test has run.
 
-![Screenshot of Github Actions](screenshots\Github_Actions.png)
+![Screenshot of Github Actions](screenshots/Github_Actions.png)
 
 
 -------------------------------------------------------------------------------
@@ -62,7 +62,7 @@ and recommends a few matching extensions.
 This way, you could run specific tests on their own in the debugger, using Tests Explorer,
 and get direct feedback in the editor.
 
-![Screenshot of VSCode with Tests Explorer](screenshots\VSCode.png)
+![Screenshot of VSCode with Tests Explorer](screenshots/VSCode.png)
 
 
 -------------------------------------------------------------------------------
